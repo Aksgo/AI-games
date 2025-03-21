@@ -1,2 +1,2 @@
 # AI-games
-~100% AI generate games~
+<i>100% AI generate games</i>
